@@ -3,7 +3,7 @@ layout: post
 title: Big Chungus is real
 subtitle: Undeniable Evidence that Big Chungus will be real on April 9th 2021
 cover-img: /assets/img/hidden-cat.jpg
-thumbnail-img: /assets/img/gray-cat.jpg
+thumbnail-img: /assets/img/green-cat.jpg
 tags: [chungus]
 ---
 
