@@ -4,7 +4,6 @@ title: Darth Plagueis The Wise
 subtitle: Did you ever hear the tragedy of Darth Plagueis The Wise?
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 tags: [jedi,sith,darth]
 ---
 
